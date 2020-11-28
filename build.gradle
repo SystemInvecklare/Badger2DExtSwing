@@ -11,5 +11,5 @@ repositories {
 
 
 dependencies {
-	implementation 'com.github.SystemInvecklare:Badger2DCore:r0.6.0'
+	implementation 'com.github.SystemInvecklare:Badger2DCore:r0.7.1'
 }
